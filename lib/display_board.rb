@@ -1,6 +1,6 @@
 
 
-board = ["x","x"," O","O","O"," x","O"," "]
+board = ["x","x"," x","O","O"," x","O"," x"]
 
 def display_board(board)
 #board = (" "," "," "," "," "," "," "," ")
